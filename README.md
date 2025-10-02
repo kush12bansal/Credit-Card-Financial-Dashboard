@@ -2,7 +2,7 @@
 
 This project is a weekly performance dashboard designed for the ongoing analysis of credit card transactions and customer data. It provides at-a-glance metrics and key performance indicators (KPIs) to track business health and inform strategic decisions on a recurring basis.
 
-![Project Dashboard Screenshot](Credit_Card_Transaction_Report_1.png)
+![Project Dashboard Screenshot](Credit_Card_Transaction_Report-1.png)
 
 ---
 
