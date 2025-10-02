@@ -13,7 +13,7 @@ This project is a weekly performance dashboard designed for the ongoing analysis
 * **Database:** PostgreSQL
 * **Data Ingestion:** SQL
 * **Data Modeling & Analytics:** DAX (Data Analysis Expressions)
-* **Data Visualization:** Power BI / Tableau
+* **Data Visualization:** Power BI
 
 ---
 
