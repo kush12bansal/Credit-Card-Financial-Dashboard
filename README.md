@@ -4,6 +4,8 @@ This project is a weekly performance dashboard designed for the ongoing analysis
 
 ![Project Dashboard Screenshot](Credit_Card_Transaction_Report-1.png)
 
+![Project Dashboard Screenshot](Credit_Card_Customer_Report-1.png)
+
 ---
 
 ## 🛠️ Tech Stack
