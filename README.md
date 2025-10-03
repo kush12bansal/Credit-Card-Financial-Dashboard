@@ -32,7 +32,7 @@ The dashboard's data pipeline is structured to handle weekly updates:
 
 This analysis has uncovered several critical insights into customer behavior and business performance.
 
-### Overall Performance (Year-to-Date)
+### Overall Performance
 
 * **Total Revenue:** The portfolio generated **$57 Million** in total revenue.
 * **Total Interest Generated:** A significant **$8 Million** was earned in interest.
